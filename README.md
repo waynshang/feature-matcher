@@ -1,2 +1,2 @@
 # feature-matcher
-using openCV find image feature and math
+using openCV find image features and match them
